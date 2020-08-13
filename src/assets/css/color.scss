@@ -1,0 +1,95 @@
+@mixin page-background {
+  background-color: #f8f8f8;
+}
+
+@mixin section-background {
+  background-color: #ffffff;
+}
+
+@mixin font-color {
+  color: #111111;
+}
+
+@mixin font-white-color {
+  color: #ffffff;
+}
+
+@mixin font-gray-color {
+  color: #e4e4e4;
+}
+
+@mixin font-red-color {
+  color: #FE4A3D;
+}
+
+@mixin font-green-color {
+  color: #11CC6E;
+}
+
+@mixin font-blue-color {
+  color: #66AADE;
+}
+
+@mixin label-color {
+  color: #787878;
+}
+
+@mixin disable-background {
+  background-color: #e0e0e0;
+}
+
+@mixin box-border {
+  border: solid #d7d7d7 1px;
+}
+
+@mixin box-border-bottom {
+  border-bottom: solid 1px #e0e0e0;
+}
+
+@mixin box-border-top {
+  border-top: solid 1px #e0e0e0;
+}
+
+@mixin box-border-left {
+  border-left: solid 1px #e0e0e0;
+}
+
+@mixin box-border-right {
+  border-right: solid 1px #e0e0e0;
+}
+
+@mixin border-color {
+  border-color: #d7d7d7;
+}
+
+@mixin button-hover-background {
+  background-color: #1C8DE0;
+}
+
+@mixin button-active-background {
+  background-color: #45AEFF;
+}
+
+@mixin button-active-red-background {
+  background-color: #FF5500;
+}
+
+@mixin button-active-red-hover-background {
+  background-color: #FF3600;
+}
+
+@mixin button-disable-background {
+  background-color: #B8B8B8;
+}
+
+@mixin top-tab-background {
+  background-color: #53A6E4;
+}
+
+@mixin top-tab-hover-background {
+  background-color: #1685D9;
+}
+
+@mixin dropdown-hover-border-right {
+  border-right: solid 2px #55A5E1;
+}
